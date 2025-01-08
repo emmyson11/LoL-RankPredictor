@@ -1,2 +1,2 @@
 # LoL-RankPredictor
-![Test Image](images/test.png)
+![Test Image](test.png)
